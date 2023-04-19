@@ -1,0 +1,7 @@
+
+L
+java:S2970A"1Add a call to 'assertAll' after all 'assertThat'.(æÀö€øÿÿÿÿ
+2
+java:S2970F"Complete the assertion.(à¹Ÿşÿÿÿÿ
+¦
+java:S3577"ŠRename class "AssertJDemo" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÕÁ´°ıÿÿÿÿ

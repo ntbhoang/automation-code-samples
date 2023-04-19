@@ -1,0 +1,23 @@
+{
+  "id": 123,
+  "name": "Max.Nguyen",
+  "permanent": true,
+  "address": {
+    "street": "5A Street",
+    "city": "HCM",
+    "zipcode": 700000
+  },
+  "phoneNumbers": [
+    123456,
+    987654
+  ],
+  "role": "Manager",
+  "cities": [
+    "HCM",
+    "HaNoi"
+  ],
+  "properties": {
+    "age": "38 years",
+    "salary": "10000 USD"
+  }
+}

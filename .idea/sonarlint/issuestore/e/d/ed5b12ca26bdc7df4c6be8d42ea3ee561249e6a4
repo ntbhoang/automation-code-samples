@@ -1,0 +1,16 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "params".(ð½Šýøÿÿÿÿ8¼éÃÂ×0
+V
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Á¦—Z
+M
+java:S1481"+Remove this unused "params" local variable.(ð½Šýøÿÿÿÿ8ÆéÃÂ×0
+h
+java:S1128"MRemove this unused import 'org.apache.commons.lang3.builder.ToStringExclude'.(ë³í¼ýÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128
+"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›

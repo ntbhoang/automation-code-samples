@@ -1,0 +1,7 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "browser".(ÅœË×8Ç®µ×0
+I
+java:S1481",Remove this unused "browser" local variable.(ÅœË×8Ê®µ×0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£©–
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(şİ“ñ8âÿ™µ×0
